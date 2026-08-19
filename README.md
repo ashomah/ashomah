@@ -4,8 +4,7 @@ Data & AI leadership. Currently at **Scopely**, leading the data science team be
 **Monopoly GO** — matchmaking, player segmentation, game-economy simulation, and the
 AI tooling the team runs on.
 
-Before games: industrial engineering, supply chain in Shanghai, retail analytics in
-Hong Kong and London, and data science in a French bank. I like problems nobody has
+Before games: industrial engineering, a supply chain team in Shanghai, retail analytics in Hong Kong, an ERP transformation in London, and data science in a French bank. I like problems nobody has
 defined yet.
 
 Most of what I build now lives behind an NDA, so this profile is quieter than the
