@@ -1,16 +1,16 @@
-## Hi there 👋
+### Ashley O'Mahony
 
-<!--
-**ashomah/ashomah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & AI leadership. Currently at **Scopely**, leading the data science team behind
+**Monopoly GO** — matchmaking, player segmentation, game-economy simulation, and the
+AI tooling the team runs on.
 
-Here are some ideas to get you started:
+Before games: industrial engineering, supply chain in Shanghai, retail analytics in
+Hong Kong and London, and data science in a French bank. I like problems nobody has
+defined yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what I build now lives behind an NDA, so this profile is quieter than the
+work. What's here is mostly older, and a few things I build for myself.
+
+**Elsewhere** · [ashleyomahony.com](https://ashleyomahony.com) ·
+[LinkedIn](https://linkedin.com/in/ashleyomahony) ·
+[GoodShifter](https://goodshifter.com) · [Toucher du Regard](https://toucherduregard.com)
